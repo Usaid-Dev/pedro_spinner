@@ -1,16 +1,5 @@
-# pedro_spinner
+# Pedro_Spinner
 
-A new Flutter project.
+### Video 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Usaid-Dev/pedro_spinner/assets/67046451/91f795e9-b907-4847-aae3-959fb73210c9" width="100%" />
